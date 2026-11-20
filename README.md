@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <h2>Kevin Miller (@Way2s)</h2>
+  <p><i>The best way to predict the future is to create it.</i></p>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,ruby,git,nodejs,cpp,fastapi,github,rabbitmq,gitlab&theme=dark" height="48" />
+</div>
 
-<!--
-**Way2s/Way2s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+Greetings! I am an accessibility (a11y) champion. I ensure that the digital products I build are fully navigable, screen-reader friendly, and inclusive to all users globally.
 
-Here are some ideas to get you started:
+### What I Work On
+- Exploring cloud-native tooling, containers, and observability
+- Designing fault-tolerant microservices and event-driven pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Way2s&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="155" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Way2s&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="155" />
+</p>
